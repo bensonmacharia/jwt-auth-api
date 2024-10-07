@@ -5,4 +5,5 @@
 ###Run locally
 
 - Install mongoDB first, and then
+- Run `npm install`
 - `node server.js`
